@@ -36,3 +36,7 @@ input {
 img {
 	max-width: 300px;
 }
+.favorite {
+	background-color: yellow;
+	font-size: 64px;
+}
